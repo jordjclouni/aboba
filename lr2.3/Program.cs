@@ -10,11 +10,11 @@ namespace lr2._3
     {
         static void Main(string[] args)
         {
-            bool error = true;
-            while (error)
+            bool error = true;//aboba
+            while (error)//asfsdafsd.,fms.a,mfd.as,mf
             {
                 Console.WriteLine("введите число от 1 до 4");
-                double m = double.Parse(Console.ReadLine());
+                double m = double.Parse(Console.ReadLine());//qweqwrqrasd
                 switch (m)
                 {
                     case 1:
